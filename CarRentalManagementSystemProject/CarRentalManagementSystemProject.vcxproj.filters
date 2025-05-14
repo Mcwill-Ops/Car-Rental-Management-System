@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Core\Driver.cpp" />
+    <ClCompile Include="Core\Car.cpp" />
+    <ClCompile Include="Core\Company.cpp" />
+    <ClCompile Include="Core\CorporateCustomer.cpp" />
+    <ClCompile Include="Core\Customer.cpp" />
+    <ClCompile Include="Core\Date.cpp" />
+    <ClCompile Include="Core\LuxuryCar.cpp" />
+    <ClCompile Include="Core\RegularCustomer.cpp" />
+    <ClCompile Include="Core\StandardCar.cpp" />
+    <ClCompile Include="Core\Time.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core\Car.h" />
+    <ClInclude Include="Core\Company.h" />
+    <ClInclude Include="Core\CorporateCustomer.h" />
+    <ClInclude Include="Core\Customer.h" />
+    <ClInclude Include="Core\Date.h" />
+    <ClInclude Include="Core\LuxuryCar.h" />
+    <ClInclude Include="Core\RegularCustomer.h" />
+    <ClInclude Include="Core\StandardCar.h" />
+    <ClInclude Include="Core\Time.h" />
+  </ItemGroup>
+</Project>
